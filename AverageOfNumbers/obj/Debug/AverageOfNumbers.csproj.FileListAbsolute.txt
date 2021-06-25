@@ -1,0 +1,13 @@
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\bin\Debug\AverageOfNumbers.exe.config
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\bin\Debug\AverageOfNumbers.exe
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\bin\Debug\AverageOfNumbers.pdb
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\obj\Debug\AverageOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\obj\Debug\AverageOfNumbers.exe
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\obj\Debug\AverageOfNumbers.pdb
+C:\Users\kosta\source\repos\Sorting\AverageOfNumbers\bin\Debug\AverageOfNumbers.exe.config
+C:\Users\kosta\source\repos\Sorting\AverageOfNumbers\bin\Debug\AverageOfNumbers.exe
+C:\Users\kosta\source\repos\Sorting\AverageOfNumbers\bin\Debug\AverageOfNumbers.pdb
+C:\Users\kosta\source\repos\Sorting\AverageOfNumbers\obj\Debug\AverageOfNumbers.csprojAssemblyReference.cache
+C:\Users\kosta\source\repos\Sorting\AverageOfNumbers\obj\Debug\AverageOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Sorting\AverageOfNumbers\obj\Debug\AverageOfNumbers.exe
+C:\Users\kosta\source\repos\Sorting\AverageOfNumbers\obj\Debug\AverageOfNumbers.pdb

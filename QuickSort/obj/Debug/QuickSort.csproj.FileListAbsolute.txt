@@ -1,0 +1,14 @@
+C:\Users\kosta\source\repos\Bozo\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\kosta\source\repos\Bozo\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\kosta\source\repos\Bozo\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\kosta\source\repos\Bozo\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Bozo\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\kosta\source\repos\Bozo\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\kosta\source\repos\Bozo\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\Users\kosta\source\repos\Sorting\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\kosta\source\repos\Sorting\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\kosta\source\repos\Sorting\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\kosta\source\repos\Sorting\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\Users\kosta\source\repos\Sorting\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Sorting\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\kosta\source\repos\Sorting\QuickSort\obj\Debug\QuickSort.pdb

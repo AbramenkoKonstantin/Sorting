@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\Bozo\BozoSort\bin\Release\BozoSort.exe.config
+C:\Users\kosta\source\repos\Bozo\BozoSort\bin\Release\BozoSort.exe
+C:\Users\kosta\source\repos\Bozo\BozoSort\bin\Release\BozoSort.pdb
+C:\Users\kosta\source\repos\Bozo\BozoSort\obj\Release\BozoSort.csprojAssemblyReference.cache
+C:\Users\kosta\source\repos\Bozo\BozoSort\obj\Release\BozoSort.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Bozo\BozoSort\obj\Release\BozoSort.exe
+C:\Users\kosta\source\repos\Bozo\BozoSort\obj\Release\BozoSort.pdb

@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\bin\Release\AverageOfNumbers.exe.config
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\bin\Release\AverageOfNumbers.exe
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\bin\Release\AverageOfNumbers.pdb
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\obj\Release\AverageOfNumbers.csprojAssemblyReference.cache
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\obj\Release\AverageOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\obj\Release\AverageOfNumbers.exe
+C:\Users\kosta\source\repos\Bozo\AverageOfNumbers\obj\Release\AverageOfNumbers.pdb

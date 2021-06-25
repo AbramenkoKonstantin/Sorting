@@ -1,0 +1,13 @@
+C:\Users\kosta\source\repos\Bozo\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\kosta\source\repos\Bozo\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\kosta\source\repos\Bozo\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\kosta\source\repos\Bozo\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Bozo\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\kosta\source\repos\Bozo\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\kosta\source\repos\Sorting\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\kosta\source\repos\Sorting\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\kosta\source\repos\Sorting\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\kosta\source\repos\Sorting\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\Users\kosta\source\repos\Sorting\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Sorting\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\kosta\source\repos\Sorting\BubbleSort\obj\Debug\BubbleSort.pdb

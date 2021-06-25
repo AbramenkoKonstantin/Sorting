@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\Bozo\Inversion\bin\Release\Inversion.exe.config
+C:\Users\kosta\source\repos\Bozo\Inversion\bin\Release\Inversion.exe
+C:\Users\kosta\source\repos\Bozo\Inversion\bin\Release\Inversion.pdb
+C:\Users\kosta\source\repos\Bozo\Inversion\obj\Release\Inversion.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Bozo\Inversion\obj\Release\Inversion.exe
+C:\Users\kosta\source\repos\Bozo\Inversion\obj\Release\Inversion.pdb

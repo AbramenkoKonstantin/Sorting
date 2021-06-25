@@ -1,0 +1,6 @@
+C:\Users\kosta\source\repos\Bozo\sumOfNegativeNumbers\bin\Debug\sumOfNegativeNumbers.exe.config
+C:\Users\kosta\source\repos\Bozo\sumOfNegativeNumbers\bin\Debug\sumOfNegativeNumbers.exe
+C:\Users\kosta\source\repos\Bozo\sumOfNegativeNumbers\bin\Debug\sumOfNegativeNumbers.pdb
+C:\Users\kosta\source\repos\Bozo\sumOfNegativeNumbers\obj\Debug\sumOfNegativeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Bozo\sumOfNegativeNumbers\obj\Debug\sumOfNegativeNumbers.exe
+C:\Users\kosta\source\repos\Bozo\sumOfNegativeNumbers\obj\Debug\sumOfNegativeNumbers.pdb
